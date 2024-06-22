@@ -2,7 +2,7 @@
 // Database configuration
 $servername = "localhost";
 $username = "user1";
-$password = "Password618";
+$password = "";
 $dbname = "wallify";
 
 // OpenAI API key
